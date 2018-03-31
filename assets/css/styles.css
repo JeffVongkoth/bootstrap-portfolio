@@ -15,4 +15,49 @@ li {
 .media-heading, a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: teal;
+    margin-bottom: 10%;
 }
+
+.navbar-brand {
+    color: white !important;
+    background: teal;
+}
+
+a.navbar-brand:hover {
+    color: white !important;
+    background: teal !important;
+    opacity: .8 !important;
+}
+.connect-me {
+        height: 110px;
+        width: 15%;
+        padding-top: 15px;
+    
+}
+
+h5 {
+    color: white !important;
+    background-color: teal;
+    right: 380px;
+    left: 0px;
+    position: absolute !important;
+    margin-top: 50% !important;
+    text-align: center !important;
+    width: 148px;
+    height: 25px;
+    padding-top: 10px !important;
+}
+
+.mediaob2 {
+     
+    position: relative !important;
+    margin-left: 10%;
+    float:  left !important;
+    margin-bottom: 10%;
+}
+
+.media-object {
+    display: inline;
+}
+
+h4
