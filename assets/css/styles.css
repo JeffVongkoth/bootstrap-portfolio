@@ -12,6 +12,7 @@ li {
     background: white;
 }
 
-.media-heading {
+.media-heading, a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: teal;
 }
